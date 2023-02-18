@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Projects
-permalink: /projects/
-description: Projects submitted for conferences and talks
+title: Podcast
+permalink: /podcast/
+description: Biostatistics Podcast
 nav: true
 nav_order: 2
 display_categories: #[work, fun]
-horizontal: true
+horizontal: false
 ---
 
 <!-- pages/projects.md -->
